@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/*
+*.png
+.DS_Store
+shp_water_lake_bathymetry/*
